@@ -9,7 +9,11 @@
     pointer-events: none;
 }
 
-@keyframes loader {
+.loader{
+    animation: loading 8s linear infinite;
+}
+
+@keyframes loading {
     0% { transform: rotate(0deg); }
     12.5% { transform: rotate(45deg); }
     25% { transform: rotate(90deg);}
