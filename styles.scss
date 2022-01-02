@@ -10,7 +10,7 @@
 }
 
 .loader{
-    animation: loading 8s linear infinite;
+    animation: loading 16s linear infinite;
 }
 
 @keyframes loading {
@@ -37,6 +37,6 @@
 
     87.5% { transform: rotate(315deg);}
     99.9% { transform: rotate(315deg);}
-    
+
     100% { transform: rotate(360deg);}
 }
