@@ -1,5 +1,5 @@
 //slideshow link
-const slideshow;
+const slideshow = "insert link here";
 
 const InspectViewer=[//vid,link,img,audio
     {pos:0}
